@@ -12,3 +12,9 @@ Any kind of document
 ### Markdown and good practices
 
 > [Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
+
+### Task Manager in Linux
+
+`top`
+`sudo apt-get install htop`
+`htop`
