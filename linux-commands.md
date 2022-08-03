@@ -16,5 +16,6 @@ Any kind of document
 ### Task Manager in Linux
 
 `top`
+*or*
 `sudo apt-get install htop`
 `htop`
