@@ -3,7 +3,7 @@ Any kind of document
 
 ### Rename workspaces
 
-> gsettings set org.gnome.desktop.wm.preferences workspace-names "['Browser', 'Terminal', 'Word', 'Games','Settings']"
+`gsettings set org.gnome.desktop.wm.preferences workspace-names "['Browser', 'Terminal', 'Word', 'Games','Settings']"`
 
 ### Restore workspace names
 
