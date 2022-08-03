@@ -7,8 +7,8 @@ Any kind of document
 
 ### Restore workspace names
 
-> gsettings reset org.gnome.desktop.wm.preferences workspace-names
+`gsettings reset org.gnome.desktop.wm.preferences workspace-names`
 
 ### Markdown and good practices
 
-> https://www.markdownguide.org/basic-syntax/
+`https://www.markdownguide.org/basic-syntax/`
