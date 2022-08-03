@@ -11,4 +11,4 @@ Any kind of document
 
 ### Markdown and good practices
 
-`https://www.markdownguide.org/basic-syntax/`
+[Markdown basic syntax]`https://www.markdownguide.org/basic-syntax/`
