@@ -20,4 +20,4 @@ Any kind of document
 `sudo apt-get install htop`
 `htop`
 
-> https://www.ibm.com/docs/en/app-connect/11.0.0?topic=function-formatting-parsing-datetimes-as-strings
+> [Datetime to string formatting e.g. %d-%M-%Y](https://www.ibm.com/docs/en/app-connect/11.0.0?topic=function-formatting-parsing-datetimes-as-strings)
