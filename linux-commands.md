@@ -21,3 +21,24 @@ Any kind of document
 `htop`
 
 > [Datetime to string formatting e.g. %d-%M-%Y](https://www.ibm.com/docs/en/app-connect/11.0.0?topic=function-formatting-parsing-datetimes-as-strings)
+
+### ">" operator:
+
+">" redirects output to a file (but it can be to a device).
+">>" to append.
+
+If number is not specified, the standard output stream is assumed, but you can also redirect errors:
+
+"> file"  - redirects *stdout* to file
+
+"1> file" - redirects *stdout* to file
+
+"2> file" - redirects *stderr* to file
+
+"&> file" - redirects *stdout* and stderr to file
+
+"> file 2>&1" - redirects *stdout and stderr* to file
+
+"/dev/null" is the null device it takes any input you want and throws it away. It can be used to suppress any output.
+
+Note: "> file 2>&1" is an older syntax which still works, &> file is neater, but would not have worked on older systems.
