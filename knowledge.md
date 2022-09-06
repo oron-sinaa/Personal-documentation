@@ -18,3 +18,8 @@ SSL: Secured Sockets Layer
 ### Postgres SQL Commands
 
 > https://www.geeksforgeeks.org/postgresql-psql-commands/
+
+
+### Timescale APIs by related features
+
+> https://docs.timescale.com/api/latest/#apis-grouped-by-related-feature
