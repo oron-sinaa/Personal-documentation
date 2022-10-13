@@ -54,3 +54,13 @@ Data Compression -
 > [Compression of hypertable](https://docs.timescale.com/getting-started/latest/compress-data/)
 > 
 > _SELECT add_compression_policy('stocks_real_time', INTERVAL '2 weeks');_
+
+
+Informational views
+---
+
+#### See all metadata and settings information for continuous aggregates -
+> SELECT * FROM timescaledb_information.continuous_aggregates;
+
+#### See all inormation about all jobs registered with the automation framework -
+> SELECT * FROM timescaledb_information.jobs;
