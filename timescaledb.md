@@ -15,4 +15,6 @@ Hypertables and chunks -
 
 > When you create a hypertable, it is automatically partitioned on the time column you provide as the second parameter to create_hypertable().
 >
-> Also, TimescaleDB automatically creates an index on the time column.`
+> Also, TimescaleDB automatically creates an index on the time column.
+> 
+> ![Create hypertable](https://user-images.githubusercontent.com/38424838/195527738-fc42c5a4-bce4-4e57-94fb-1a5357f75a3f.png)
