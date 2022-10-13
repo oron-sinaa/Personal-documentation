@@ -27,10 +27,8 @@ Continuous Aggregates & Refresh Policy -
 > [Continuous Aggregates Refresh Policy](https://docs.timescale.com/getting-started/latest/create-cagg/create-cagg-policy/)
 > 
 #### Manually call a refresh policy -
-<p> 
- CALL refresh_continuous_aggregate(
+<p> CALL refresh_continuous_aggregate(
  'stock_candlestick_daily',
  now() - INTERVAL '1 week',
  now()
- );
-</p>
+ );</p>
