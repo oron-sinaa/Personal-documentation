@@ -1,7 +1,7 @@
 Timescale DB
 ============
 
-`TimescaleDB inherits all of PostgresSQL; what works in psql works in timescale`
+TimescaleDB inherits all of PostgresSQL; what works in psql works in timescale
 
 
 Hypertables and chunks -
@@ -12,5 +12,7 @@ Hypertables and chunks -
 > ![Hypertables over chunks](https://user-images.githubusercontent.com/38424838/195527076-057bbc7e-64a4-484b-8388-59e191e64064.png)
 
 #### Create hypertable -
-`When you create a hypertable, it is automatically partitioned on the time column you provide as the second parameter to create_hypertable().
-Also, TimescaleDB automatically creates an index on the time column.`
+
+> When you create a hypertable, it is automatically partitioned on the time column you provide as the second parameter to create_hypertable().
+>
+> Also, TimescaleDB automatically creates an index on the time column.`
