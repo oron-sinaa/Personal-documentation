@@ -19,9 +19,16 @@ Hypertables and chunks -
 > 
 > ![Create hypertable](https://user-images.githubusercontent.com/38424838/195527738-fc42c5a4-bce4-4e57-94fb-1a5357f75a3f.png)
 
-Continuous Aggregates -
+Continuous Aggregates & Refresh Policy -
 ---
 
 > [Continuous Aggregates](https://docs.timescale.com/api/latest/continuous-aggregates/)
 > 
 > [Continuous Aggregates Refresh Policy](https://docs.timescale.com/getting-started/latest/create-cagg/create-cagg-policy/)
+> 
+#### Manually call a refresh policy -
+> CALL refresh_continuous_aggregate(
+  'stock_candlestick_daily',
+  now() - INTERVAL '1 week',
+  now()
+);
