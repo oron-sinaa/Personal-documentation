@@ -23,3 +23,7 @@ SSL: Secured Sockets Layer
 ### Timescale APIs by related features
 
 > https://docs.timescale.com/api/latest/#apis-grouped-by-related-feature
+
+### Postgres Tutorial
+
+> https://www.postgresqltutorial.com/
