@@ -36,14 +36,14 @@ Continuous Aggregates & Refresh Policy -
 
 > Use this SQL command to create an auto-updating policy for the continuous aggregate stock_candlestick_daily:
 > 
-> SELECT add_continuous_aggregate_policy('stock_candlestick_daily',
-> 
-> start_offset => INTERVAL '3 days',
->
-> end_offset => INTERVAL '1 hour',
->
-> schedule_interval => INTERVAL '1 days');
+>> SELECT add_continuous_aggregate_policy('stock_candlestick_daily',
+>> 
+>> start_offset => INTERVAL '3 days',
 >>
->> * This policy runs once a day, as set by "schedule_interval".
->> * When it runs, it materializes data from between 3 days ago and 1 hour ago, as set by "start_offset" and "end_offset".
->> * Offset times are calculated relative to query execution time. The executed query is the one defined in the continuous aggregate stock_candlestick_daily.
+>> end_offset => INTERVAL '1 hour',
+>>
+>> schedule_interval => INTERVAL '1 days');
+>
+> * This policy runs once a day, as set by "schedule_interval".
+> * When it runs, it materializes data from between 3 days ago and 1 hour ago, as set by "start_offset" and "end_offset".
+> * Offset times are calculated relative to query execution time. The executed query is the one defined in the continuous aggregate stock_candlestick_daily.
