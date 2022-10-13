@@ -52,3 +52,5 @@ Data Compression -
 ---
 
 > [Compression of hypertable](https://docs.timescale.com/getting-started/latest/compress-data/)
+> 
+> _SELECT add_compression_policy('stocks_real_time', INTERVAL '2 weeks');_
