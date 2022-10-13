@@ -27,3 +27,4 @@ SSL: Secured Sockets Layer
 ### Postgres Tutorial
 
 > https://www.postgresqltutorial.com/
+> ![psql operator precedence](https://user-images.githubusercontent.com/38424838/195512886-1a09e081-e50a-4392-a82a-35e7518ac75a.png)
