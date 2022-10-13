@@ -28,7 +28,7 @@ Continuous Aggregates & Refresh Policy -
 > 
 #### Manually call a refresh policy -
 > CALL refresh_continuous_aggregate(
-> 'stock_candlestick_daily',
-> now() - INTERVAL '1 week',
-> now()
-> );
+ 'stock_candlestick_daily',
+ now() - INTERVAL '1 week',
+ now()
+ );
