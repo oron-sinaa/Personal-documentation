@@ -24,3 +24,4 @@ Continuous Aggregates -
 
 > [Continuous Aggregates](https://docs.timescale.com/api/latest/continuous-aggregates/)
 > 
+> [Continuous Aggregates Refresh Policy](https://docs.timescale.com/getting-started/latest/create-cagg/create-cagg-policy/)
