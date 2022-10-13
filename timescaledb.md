@@ -34,8 +34,8 @@ Continuous Aggregates & Refresh Policy -
  );
 
 
-> Use this SQL command to create an auto-updating policy for the continuous aggregate stock_candlestick_daily:
-> 
+#### Create an automatic refresh policy over sample continuous aggregate table "stock_candlestick_daily"
+
 >> SELECT add_continuous_aggregate_policy('stock_candlestick_daily',
 >> 
 >> start_offset => INTERVAL '3 days',
