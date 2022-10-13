@@ -47,3 +47,8 @@ Continuous Aggregates & Refresh Policy -
 > * This policy runs once a day, as set by "schedule_interval".
 > * When it runs, it materializes data from between 3 days ago and 1 hour ago, as set by "start_offset" and "end_offset".
 > * Offset times are calculated relative to query execution time. The executed query is the one defined in the continuous aggregate stock_candlestick_daily.
+
+Data Compression -
+---
+
+> [Compression of hypertable](https://docs.timescale.com/getting-started/latest/compress-data/)
