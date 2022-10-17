@@ -67,3 +67,6 @@ Informational views
 
 #### Remove a specific refresh policy 
 > SELECT remove_continuous_aggregate_policy('table_name');
+
+#### Call refresh policy
+> CALL refresh_continuous_aggregate('conditions', '2020-01-01', '2020-02-01');
