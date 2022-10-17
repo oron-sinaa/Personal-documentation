@@ -69,4 +69,4 @@ Informational views
 > SELECT remove_continuous_aggregate_policy('table_name');
 
 #### Call refresh policy
-> CALL refresh_continuous_aggregate('conditions', '2020-01-01', '2020-02-01');
+> CALL refresh_continuous_aggregate('table_name', '2020-01-01', '2020-02-01');
