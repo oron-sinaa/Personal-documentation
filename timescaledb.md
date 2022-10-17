@@ -64,3 +64,6 @@ Informational views
 
 #### See all inormation about all jobs registered with the automation framework -
 > SELECT * FROM timescaledb_information.jobs;
+
+#### Remove a specific refresh policy 
+> SELECT remove_continuous_aggregate_policy('table_name');
