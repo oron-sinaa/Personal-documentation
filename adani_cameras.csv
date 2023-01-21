@@ -1,0 +1,50 @@
+JNT-11,CHP Area ,CHP JNT 11 (94),10.150.103.167,service,Initial$1
+Drive House-1,CHP Area ,CHP BCN 7 DRIVE HOUSE -1 (59),10.40.22.110,service,Initial$1
+JNT-5,CHP Area ,CHP JNT 05 (63),10.150.103.63,service,WSS4Bosch 
+JNT-6,CHP Area ,CHP JNT 06 (62),10.40.22.62,service,WSS4Bosch 
+JNT-7,CHP Area ,CHP JNT-7 (65),10.150.103.65,service,WSS4Bosch 
+JNT-8,CHP Area ,CHP JNT-8 (66),10.150.103.66,service,WSS4Bosch 
+JNT-9,CHP Area ,CHP JNT-9 (67),10.150.103.67,service,WSS4Bosch 
+JNT-10,CHP Area ,CHP JNT 10 (68),10.150.103.68,service,WSS4Bosch 
+Crusher House (Crusher Floor),CHP Area ,CHP CRUSHER HOUSE TOP FLOOR,10.150.103.164,service,Initial$1
+Reversible Shuttle Conveyor-1,CHP Area ,CHP CRESHER HOUSE GROUND FLOOR 135,10.40.22.135,service,Initial$1
+Wagan Trippler-1,CHP Area ,CHP WT 1 (78),10.150.103.170,service,Initial$1
+clear,CHP Area ,CHP WT-2 INHAUL (64),10.40.22.64,service,WSS4Bosch 
+Wagan Trippler-3,CHP Area ,CHP WT-3 INHAUL (60),10.40.22.60,service,WSS4Bosch 
+CSU JNT12,CHP Area ,CHP JNT-12 CHU-2 (142),10.150.103.142,service,Initial$1
+CHP Track hopper,CHP Area ,CHP TRACK HOPPER (88),10.40.22.88,service,WSS4Bosch 
+JNT-12,CHP Area ,CHP JNT 12 (95),10.40.22.95,service,WSS4Bosch 
+JNT-13,CHP Area ,CHP JNT 13 (96),10.40.22.96,service,WSS4Bosch 
+JNT-14,CHP Area ,CHP JNT 14 (97),10.40.22.97,service,WSS4Bosch 
+JNT-15,CHP Area ,CHP JNT 15 (98),10.40.22.98,service,WSS4Bosch 
+JNT-16,CHP Area ,CHP JNT 16 (99),10.40.22.99,service,WSS4Bosch 
+CHP BCN -10 ABC STONE PICKER,CHP Area ,CHP BCN 10C(105),10.40.22.105,service,Initial$1
+JNT-4 BCN-10 Area,CHP Area ,CHP JNT 04 BCN11AB DRIVE END61,10.150.103.61,service,WSS4Bosch 
+CSU 1 JNT-4,CHP Area ,JNT-4 CSU -1  (10.40.22.71),10.150.103.71,service,Initial$1
+"BCN- 1A,B ",CHP Area ,CHP BCN_1AB HEAD END,10.40.22.124,service,Initial$1
+"BCN- 5A,B TAIL end ",CHP Area ,CHP BCN_5A/B TAIL END (131),10.40.22.131,service,Initial$1
+BCN-3,CHP Area ,CHP BCN 3 (130),10.40.22.130,service,Initial$1
+"BCN- 5A,B walkway",CHP Area ,CHP BCN_5A/B Walkway_139,10.40.22.139,service,Initial$1
+"BCN- 2A,B Tail end ",CHP Area ,CHP BCN_2A/B HEAD END(123),10.40.22.123,service,Initial$1
+"ILMS-1,2 (BCN-5A/B)",CHP Area ,CHP JNT 01_BCN_5A/B Head End(13,10.150.103.163,service,Initial$1
+"BCN- 6A,B",CHP Area ,CHP BCN 6A/B HEAD END,10.40.22.141,service,Initial$1
+RBF-1 floor,CHP Area ,CHP JNT 02 RBF FLOOR(137),10.40.22.137,service,Initial$1
+Shuttle Conveyor-1,CHP Area ,Cresher House 1st Floor (10.40.,10.40.22.136,service,Initial$1
+BCN 23 AB pent house,CHP Area ,CHP BCN 23 AB PENT HOUSE 2(132),10.40.22.132,service,Initial$1
+BCN 11 AB pent house,CHP Area ,CHP PENT HOUSE 1 (133),10.40.22.133,service,Initial$1
+BCN 24AB,CHP Area ,CHP BCN-24A/B,10.40.22.134,service,Initial$1
+BCN 15AB ,CHP Area ,CHP BCN-15AB,10.40.22.140,service,Initial$1
+Crusher House Top Floor,CHP Area ,CHP CRUSHER HOUSE (69)(CR FLOOR,10.150.103.157,service,Initial$1
+TG Floor (13.7M),BTG -5,U#5 TG  FLOOR (83),10.150.103.161,service,Initial$1
+MOT Tank (6.9M),BTG -5,U#5 MOT (6.9 mtr.)(93),10.150.103.93,service,WSS4Bosch 
+TG Floor (13.7M),BTG -4,U#4 TG  FLOOR (82),10.150.103.169,service,Initial$1
+MOT Tank (6.9M),BTG -4,U#4 MOT (6.9 mtr)(92),10.150.103.92,service,WSS4Bosch 
+MOT Tank (6.9M),BTG -3,U#3 MOT TANK (6.9M) (52),10.150.103.52,service,WSS4Bosch 
+TG Floor (13.7M),BTG -3,U#3 TG FLOOR(55),10.150.103.55,service,WSS4Bosch 
+MOT Tank (6.9M),BTG -2,U#2 MOT Tank (6.9 M) (39),10.150.103.39,service,WSS4Bosch 
+TG Floor (13.7M),BTG -2,U#2 TG  FLOOR (41),10.150.103.41,service,WSS4Bosch 
+TG Floor (13.7M),BTG -1,U#1 TG FLOOR (34),10.150.103.34,service,WSS4Bosch 
+MOT Tank (6.9M),BTG -1,U#1 MOT (31),10.150.103.31,service,WSS4Bosch 
+CHP WT 2 (79),CHP Area ,CHP WT 2 (79),10.40.22.79,service,WSS4Bosch 
+CHP WT 3 (121),CHP Area ,CHP WT 3 (121),10.40.22.121,service,Initial$1
+CHP JNT 16 BCN 28AB HEAD END,CHP Area ,CHP JNT 16 BCN 28AB HEAD END,10.150.103.166,service,Initial$1
