@@ -1,0 +1,825 @@
+{
+      "account":{
+        "root":{
+          "password":"8892af4444903390e47370638dec55a1"
+        }
+      },
+      "autopushes":[
+        [
+          "Adanipower01.stream", "/ndvr/Adanipower01.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower02.stream", "/ndvr/Adanipower02.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower03.stream", "/ndvr/Adanipower03.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower04.stream", "/ndvr/Adanipower04.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower05.stream", "/ndvr/Adanipower05.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower06.stream", "/ndvr/Adanipower06.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower07.stream", "/ndvr/Adanipower07.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower08.stream", "/ndvr/Adanipower08.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower09.stream", "/ndvr/Adanipower09.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower10.stream", "/ndvr/Adanipower10.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower11.stream", "/ndvr/Adanipower11.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower12.stream", "/ndvr/Adanipower12.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower13.stream", "/ndvr/Adanipower13.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower14.stream", "/ndvr/Adanipower14.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower15.stream", "/ndvr/Adanipower15.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower16.stream", "/ndvr/Adanipower16.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower17.stream", "/ndvr/Adanipower17.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower18.stream", "/ndvr/Adanipower18.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower19.stream", "/ndvr/Adanipower19.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower20.stream", "/ndvr/Adanipower20.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower21.stream", "/ndvr/Adanipower21.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower22.stream", "/ndvr/Adanipower22.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower23.stream", "/ndvr/Adanipower23.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower24.stream", "/ndvr/Adanipower24.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower25.stream", "/ndvr/Adanipower25.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower26.stream", "/ndvr/Adanipower26.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower27.stream", "/ndvr/Adanipower27.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower28.stream", "/ndvr/Adanipower28.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower29.stream", "/ndvr/Adanipower29.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower30.stream", "/ndvr/Adanipower30.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower31.stream", "/ndvr/Adanipower31.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower32.stream", "/ndvr/Adanipower32.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower33.stream", "/ndvr/Adanipower33.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower34.stream", "/ndvr/Adanipower34.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower35.stream", "/ndvr/Adanipower35.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower36.stream", "/ndvr/Adanipower36.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower37.stream", "/ndvr/Adanipower37.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower38.stream", "/ndvr/Adanipower38.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower39.stream", "/ndvr/Adanipower39.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower40.stream", "/ndvr/Adanipower40.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower41.stream", "/ndvr/Adanipower41.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower42.stream", "/ndvr/Adanipower42.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower43.stream", "/ndvr/Adanipower43.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower44.stream", "/ndvr/Adanipower44.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower45.stream", "/ndvr/Adanipower45.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower46.stream", "/ndvr/Adanipower46.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower47.stream", "/ndvr/Adanipower47.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower48.stream", "/ndvr/Adanipower48.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower49.stream", "/ndvr/Adanipower49.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower50.stream", "/ndvr/Adanipower50.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower51.stream", "/ndvr/Adanipower51.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower52.stream", "/ndvr/Adanipower52.stream/index.m3u8?overwrite=0"
+        ], [
+          "Adanipower53.stream", "/ndvr/Adanipower53.stream/index.m3u8?overwrite=0"
+        ], [
+          "sink.stream", "/ndvr/sink.stream/index.m3u8?overwrite=0"
+        ], [
+          "upload.stream", "/ndvr/upload.stream/index.m3u8?overwrite=0"
+        ]
+      ],
+      "bandwidth":{
+        "exceptions":[],
+        "limit":0
+      },
+      "config":{
+        "accesslog":"LOG",
+        "controller":{
+          "interface":null,
+          "port":null,
+          "username":null
+        },
+        "debug":null,
+        "defaultStream":null,
+        "limits":null,
+        "location":{
+          "lat":0.0000000000,
+          "lon":0.0000000000,
+          "name":""
+        },
+        "prometheus":"metrics",
+        "protocols":[
+          {
+            "connector":"HTTP",
+            "pubaddr":[
+              "disabled"
+            ]
+          }, {
+            "connector":"AAC"
+          }, {
+            "connector":"H264"
+          }, {
+            "connector":"HLS",
+            "mergesessions":false,
+            "nonchunked":false
+          }, {
+            "connector":"JSON"
+          }, {
+            "connector":"MP4"
+          }, {
+            "acceptable":"0",
+            "connector":"RTMP"
+          }, {
+            "connector":"RTSP",
+            "ignsendport":false
+          }, {
+            "connector":"HTTPTS",
+            "targetSegmentLength":6
+          }, {
+            "cachedir":"/thumbnails",
+            "cachetime":1,
+            "connector":"JPG",
+            "username":"root"
+          }, {
+            "connector":"CMAF",
+            "mergesessions":false,
+            "nonchunked":false
+          }
+        ],
+        "serverid":"Vision+for+Jarvis",
+        "sessionInputMode":15,
+        "sessionOutputMode":15,
+        "sessionStreamInfoMode":"1",
+        "sessionUnspecifiedMode":0,
+        "sessionViewerMode":14,
+        "tknMode":15,
+        "triggers":{},
+        "trustedproxy":[]
+      },
+      "data":{},
+      "extwriters":null,
+      "push_settings":{
+        "maxspeed":1,
+        "wait":2
+      },
+      "streams":{
+        "Adanipower01.stream":{
+          "always_on":true,
+          "name":"Adanipower01.stream",
+          "source":"rtsp://service:Initial%241@10.150.103.167:554",
+          "transport":"TCP"
+        },
+        "Adanipower01.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower01.stream_norec",
+          "source":"rtsp://service:Initial%241@10.150.103.167:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower02.stream":{
+          "always_on":true,
+          "name":"Adanipower02.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.110:554",
+          "transport":"TCP"
+        },
+        "Adanipower02.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower02.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.110:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower03.stream":{
+          "always_on":true,
+          "name":"Adanipower03.stream",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.63:554",
+          "transport":"TCP"
+        },
+        "Adanipower03.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower03.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.63:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower04.stream":{
+          "always_on":true,
+          "name":"Adanipower04.stream",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.62:554",
+          "transport":"TCP"
+        },
+        "Adanipower04.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower04.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.62:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower05.stream":{
+          "always_on":true,
+          "name":"Adanipower05.stream",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.65:554",
+          "transport":"TCP"
+        },
+        "Adanipower05.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower05.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.65:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower06.stream":{
+          "always_on":true,
+          "name":"Adanipower06.stream",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.66:554",
+          "transport":"TCP"
+        },
+        "Adanipower06.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower06.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.66:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower07.stream":{
+          "always_on":true,
+          "name":"Adanipower07.stream",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.67:554",
+          "transport":"TCP"
+        },
+        "Adanipower07.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower07.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.67:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower08.stream":{
+          "always_on":true,
+          "name":"Adanipower08.stream",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.68:554",
+          "transport":"TCP"
+        },
+        "Adanipower08.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower08.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.68:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower09.stream":{
+          "always_on":true,
+          "name":"Adanipower09.stream",
+          "source":"rtsp://service:Initial%241@10.150.103.157:554",
+          "transport":"TCP"
+        },
+        "Adanipower09.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower09.stream_norec",
+          "source":"rtsp://service:Initial%241@10.150.103.157:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower10.stream":{
+          "always_on":true,
+          "name":"Adanipower10.stream",
+          "source":"rtsp://service:Initial%241@10.150.103.170:554",
+          "transport":"TCP"
+        },
+        "Adanipower10.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower10.stream_norec",
+          "source":"rtsp://service:Initial%241@10.150.103.170:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower11.stream":{
+          "always_on":true,
+          "name":"Adanipower11.stream",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.64:554",
+          "transport":"TCP"
+        },
+        "Adanipower11.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower11.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.64:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower12.stream":{
+          "always_on":true,
+          "name":"Adanipower12.stream",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.60:554",
+          "transport":"TCP"
+        },
+        "Adanipower12.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower12.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.60:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower13.stream":{
+          "always_on":true,
+          "name":"Adanipower13.stream",
+          "source":"rtsp://service:Initial%241@10.150.103.142:554",
+          "transport":"TCP"
+        },
+        "Adanipower13.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower13.stream_norec",
+          "source":"rtsp://service:Initial%241@10.150.103.142:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower14.stream":{
+          "always_on":true,
+          "name":"Adanipower14.stream",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.88:554",
+          "transport":"TCP"
+        },
+        "Adanipower14.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower14.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.88:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower15.stream":{
+          "always_on":true,
+          "name":"Adanipower15.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.95:554",
+          "transport":"TCP"
+        },
+        "Adanipower15.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower15.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.95:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower16.stream":{
+          "always_on":true,
+          "name":"Adanipower16.stream",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.96:554",
+          "transport":"TCP"
+        },
+        "Adanipower16.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower16.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.96:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower17.stream":{
+          "always_on":true,
+          "name":"Adanipower17.stream",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.97:554",
+          "transport":"TCP"
+        },
+        "Adanipower17.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower17.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.97:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower18.stream":{
+          "always_on":true,
+          "name":"Adanipower18.stream",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.98:554",
+          "transport":"TCP"
+        },
+        "Adanipower18.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower18.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.98:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower19.stream":{
+          "always_on":true,
+          "name":"Adanipower19.stream",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.99:554",
+          "transport":"TCP"
+        },
+        "Adanipower19.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower19.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.99:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower20.stream":{
+          "always_on":true,
+          "name":"Adanipower20.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.105:554",
+          "transport":"TCP"
+        },
+        "Adanipower20.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower20.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.105:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower21.stream":{
+          "always_on":true,
+          "name":"Adanipower21.stream",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.60:554",
+          "transport":"TCP"
+        },
+        "Adanipower21.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower21.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.60:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower22.stream":{
+          "always_on":true,
+          "name":"Adanipower22.stream",
+          "source":"rtsp://service:Initial%241@10.150.103.61:554",
+          "transport":"TCP"
+        },
+        "Adanipower22.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower22.stream_norec",
+          "source":"rtsp://service:Initial%241@10.150.103.61:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower23.stream":{
+          "always_on":true,
+          "name":"Adanipower23.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.110:554",
+          "transport":"TCP"
+        },
+        "Adanipower23.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower23.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.110:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower24.stream":{
+          "always_on":true,
+          "name":"Adanipower24.stream",
+          "source":"rtsp://service:Initial%241@10.150.103.71:554",
+          "transport":"TCP"
+        },
+        "Adanipower24.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower24.stream_norec",
+          "source":"rtsp://service:Initial%241@10.150.103.71:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower25.stream":{
+          "always_on":true,
+          "name":"Adanipower25.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.124:554",
+          "transport":"TCP"
+        },
+        "Adanipower25.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower25.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.124:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower26.stream":{
+          "always_on":true,
+          "name":"Adanipower26.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.131:554",
+          "transport":"TCP"
+        },
+        "Adanipower26.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower26.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.131:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower27.stream":{
+          "always_on":true,
+          "name":"Adanipower27.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.130:554",
+          "transport":"TCP"
+        },
+        "Adanipower27.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower27.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.130:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower28.stream":{
+          "always_on":true,
+          "name":"Adanipower28.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.139:554",
+          "transport":"TCP"
+        },
+        "Adanipower28.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower28.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.139:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower29.stream":{
+          "always_on":true,
+          "name":"Adanipower29.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.123:554",
+          "transport":"TCP"
+        },
+        "Adanipower29.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower29.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.123:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower30.stream":{
+          "always_on":true,
+          "name":"Adanipower30.stream",
+          "source":"rtsp://service:Initial%241@10.150.103.163:554",
+          "transport":"TCP"
+        },
+        "Adanipower30.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower30.stream_norec",
+          "source":"rtsp://service:Initial%241@10.150.103.163:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower31.stream":{
+          "always_on":true,
+          "name":"Adanipower31.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.141:554",
+          "transport":"TCP"
+        },
+        "Adanipower31.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower31.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.141:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower32.stream":{
+          "always_on":true,
+          "name":"Adanipower32.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.137:554",
+          "transport":"TCP"
+        },
+        "Adanipower32.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower32.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.137:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower33.stream":{
+          "always_on":true,
+          "name":"Adanipower33.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.135:554",
+          "transport":"TCP"
+        },
+        "Adanipower33.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower33.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.135:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower34.stream":{
+          "always_on":true,
+          "name":"Adanipower34.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.136:554",
+          "transport":"TCP"
+        },
+        "Adanipower34.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower34.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.136:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower35.stream":{
+          "always_on":true,
+          "name":"Adanipower35.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.132:554",
+          "transport":"TCP"
+        },
+        "Adanipower35.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower35.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.132:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower36.stream":{
+          "always_on":true,
+          "name":"Adanipower36.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.133:554",
+          "transport":"TCP"
+        },
+        "Adanipower36.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower36.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.133:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower37.stream":{
+          "always_on":true,
+          "name":"Adanipower37.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.134:554",
+          "transport":"TCP"
+        },
+        "Adanipower37.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower37.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.134:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower38.stream":{
+          "always_on":true,
+          "name":"Adanipower38.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.140:554",
+          "transport":"TCP"
+        },
+        "Adanipower38.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower38.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.140:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower39.stream":{
+          "always_on":true,
+          "name":"Adanipower39.stream",
+          "source":"rtsp://service:Initial%241@10.150.103.157:554",
+          "transport":"TCP"
+        },
+        "Adanipower39.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower39.stream_norec",
+          "source":"rtsp://service:Initial%241@10.150.103.157:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower40.stream":{
+          "always_on":true,
+          "name":"Adanipower40.stream",
+          "source":"rtsp://service:Initial%241@10.40.22.105:554",
+          "transport":"TCP"
+        },
+        "Adanipower40.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower40.stream_norec",
+          "source":"rtsp://service:Initial%241@10.40.22.105:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower41.stream":{
+          "always_on":true,
+          "name":"Adanipower41.stream",
+          "source":"rtsp://service:Initial%241@10.150.103.161:554",
+          "transport":"TCP"
+        },
+        "Adanipower41.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower41.stream_norec",
+          "source":"rtsp://service:Initial%241@10.150.103.161:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower42.stream":{
+          "always_on":true,
+          "name":"Adanipower42.stream",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.93:554",
+          "transport":"TCP"
+        },
+        "Adanipower42.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower42.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.93:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower43.stream":{
+          "always_on":true,
+          "name":"Adanipower43.stream",
+          "source":"rtsp://service:Initial%241@10.150.103.169:554",
+          "transport":"TCP"
+        },
+        "Adanipower43.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower43.stream_norec",
+          "source":"rtsp://service:Initial%241@10.150.103.169:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower44.stream":{
+          "always_on":true,
+          "name":"Adanipower44.stream",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.92:554",
+          "transport":"TCP"
+        },
+        "Adanipower44.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower44.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.92:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower45.stream":{
+          "always_on":true,
+          "name":"Adanipower45.stream",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.52:554",
+          "transport":"TCP"
+        },
+        "Adanipower45.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower45.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.52:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower46.stream":{
+          "always_on":true,
+          "name":"Adanipower46.stream",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.55:554",
+          "transport":"TCP"
+        },
+        "Adanipower46.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower46.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.55:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower47.stream":{
+          "always_on":true,
+          "name":"Adanipower47.stream",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.39:554",
+          "transport":"TCP"
+        },
+        "Adanipower47.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower47.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.39:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower48.stream":{
+          "always_on":true,
+          "name":"Adanipower48.stream",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.41:554",
+          "transport":"TCP"
+        },
+        "Adanipower48.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower48.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.41:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower49.stream":{
+          "always_on":true,
+          "name":"Adanipower49.stream",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.34:554",
+          "transport":"TCP"
+        },
+        "Adanipower49.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower49.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.34:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower50.stream":{
+          "always_on":true,
+          "name":"Adanipower50.stream",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.31:554",
+          "transport":"TCP"
+        },
+        "Adanipower50.stream_norec":{
+          "always_on":true,
+          "name":"Adanipower50.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.150.103.31:554/?inst=2",
+          "transport":"TCP"
+        },
+        "Adanipower51.stream":{
+          "name":"Adanipower51.stream",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.79:554"
+        },
+        "Adanipower51.stream_norec":{
+          "name":"Adanipower51.stream_norec",
+          "source":"rtsp://service:WSS4Bosch@10.40.22.79:554/?inst=2"
+        },
+        "Adanipower52.stream":{
+          "name":"Adanipower52.stream",
+          "source":"rtsp://service:Initial$1@10.40.22.121:554"
+        },
+        "Adanipower52.stream_norec":{
+          "name":"Adanipower52.stream_norec",
+          "source":"rtsp://service:Initial$1@10.40.22.121:554/?inst=2"
+        },
+        "Adanipower53.stream":{
+          "name":"Adanipower53.stream",
+          "source":"rtsp://service:Initial$1@10.40.22.120:554"
+        },
+        "Adanipower53.stream_norec":{
+          "name":"Adanipower53.stream_norec",
+          "source":"rtsp://service:Initial$1@10.40.22.120:554/?inst=2"
+        }
+      },
+      "ui_settings":{
+        "graphs":{},
+        "viewmode":"list"
+      },
+      "variables":null
+    }
